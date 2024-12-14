@@ -21,24 +21,37 @@
 - 설문조사 결과 OTT 시장의 숏폼 콘텐츠 도입 시 긍정적인 결과 도출
 
 ---
-  ### 🌟 프로젝트 이미지
+### 🌟 프로젝트 이미지
 - 아래는 프로젝트 발표 자료에서 사용된 대표 슬라이드입니다.
 <table align="center">
   <tr>
     <td align="center">
-      <img src="./시계열1.png" alt="시계열 분석 슬라이드 1" width="400">
-      <p>시계열 분석 메인 슬라이드</p>
+      <img src="./딥러닝.png" alt="딥러닝 분석 슬라이드 1" width="400">
+      <p>딥러닝 분석 메인 슬라이드</p>
     </td>
     <td align="center">
-      <img src="./시계열2.png" alt="시계열 분석 슬라이드 2" width="400">
-      <p>데이터 탐색</p>
+      <img src="./딥러닝2.png" alt="딥러닝 분석 슬라이드 1" width="400">
+      <p>딥러닝 분석 메인 슬라이드</p>
     </td>
     <td align="center">
-      <img src="./시계열3.png" alt="시계열 분석 슬라이드 3" width="400">
-      <p>데이터 분석</p>
+      <img src="./딥러닝3.png" alt="딥러닝 분석 슬라이드 1" width="400">
+      <p>딥러닝 분석 메인 슬라이드</p>
+    </td>
+    <td align="center">
+      <img src="./딥러닝4.png" alt="딥러닝 분석 슬라이드 1" width="400">
+      <p>딥러닝 분석 메인 슬라이드</p>
+    </td>
+    <td align="center">
+      <img src="./딥러닝5.png" alt="딥러닝 분석 슬라이드 1" width="400">
+      <p>딥러닝 분석 메인 슬라이드</p>
+    </td>
+    <td align="center">
+      <img src="./딥러닝6.png" alt="딥러닝 분석 슬라이드 1" width="400">
+      <p>딥러닝 분석 메인 슬라이드</p>
     </td>
   </tr>
 </table>
+
 
 
 ---
