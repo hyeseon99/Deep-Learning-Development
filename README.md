@@ -53,17 +53,14 @@
 </table>
 
 ---
+
 ### 📹 음성, 감정 분석 결과 영상 및 홈페이지 구현영상
 
 - **음성, 감정 분석 결과 영상: 분노 모음집_베테랑**  
-  <video width="600" controls>
-    <source src="./videos/분노%20모음집_베테랑.mp4" type="video/mp4">
-  </video>
+  [분노 모음집_베테랑.mp4](./videos/분노%20모음집_베테랑.mp4)
 
 - **홈페이지 구현 영상**  
-  <video width="600" controls>
-    <source src="./videos/홈페이지_구현_영상.mp4" type="video/mp4">
-  </video>
+  [홈페이지_구현_영상.mp4](./videos/홈페이지_구현_영상.mp4)
 
 ---
 
