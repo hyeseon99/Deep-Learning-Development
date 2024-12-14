@@ -60,7 +60,7 @@
   [분노 모음집_베테랑.mp4](./videos/분노%20모음집_베테랑.mp4)
 
 - **홈페이지 구현 영상**  
-  ![홈페이지 구현 영상](./gif/홈페이지_구현_영상.gif)
+  ![홈페이지 구현 영상](https://github.com/user-attachments/assets/c608ff57-ff15-4ea2-92a8-a4f0b1c18008)
 
 ---
 
