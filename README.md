@@ -31,23 +31,23 @@
     </td>
     <td align="center">
       <img src="./딥러닝2.png" alt="딥러닝 분석 슬라이드 1" width="400">
-      <p>딥러닝 분석 메인 슬라이드</p>
+      <p>딥러닝 분석 </p>
     </td>
     <td align="center">
       <img src="./딥러닝3.png" alt="딥러닝 분석 슬라이드 1" width="400">
-      <p>딥러닝 분석 메인 슬라이드</p>
+      <p>딥러닝 분석 </p>
     </td>
     <td align="center">
       <img src="./딥러닝4.png" alt="딥러닝 분석 슬라이드 1" width="400">
-      <p>딥러닝 분석 메인 슬라이드</p>
+      <p>딥러닝 분석 </p>
     </td>
     <td align="center">
       <img src="./딥러닝5.png" alt="딥러닝 분석 슬라이드 1" width="400">
-      <p>딥러닝 분석 메인 슬라이드</p>
+      <p>딥러닝 분석 모델 성능</p>
     </td>
     <td align="center">
       <img src="./딥러닝6.png" alt="딥러닝 분석 슬라이드 1" width="400">
-      <p>딥러닝 분석 메인 슬라이드</p>
+      <p>딥러닝 분석 모델 성능</p>
     </td>
   </tr>
 </table>
